@@ -68,3 +68,18 @@ All experiments are logged using **TrackIO**.
   - Performs inference on the test set
   - Generates `submission.csv` with columns:
 
+
+
+
+
+
+## 🚀 Deployment (Hugging Face)
+
+A live demo of the trained model is deployed on **Hugging Face Spaces**:
+
+🔗 **Live Demo:**  
+https://huggingface.co/spaces/Abhishek-A0/face-age-gender-demo
+
+Users can upload a face image and receive predicted **age** and **gender** in real time.
+
+
